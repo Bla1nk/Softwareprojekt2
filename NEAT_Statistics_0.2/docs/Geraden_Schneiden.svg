@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Geraden_Schneiden.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3273709"
+     inkscape:cx="267.82266"
+     inkscape:cy="197.00598"
+     inkscape:window-width="1284"
+     inkscape:window-height="970"
+     inkscape:window-x="1500"
+     inkscape:window-y="141"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1447" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1447-4" />
+    </marker>
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-0"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-5"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-3"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-2"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-23"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-4"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.291871px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 23.122148,95.677852 H 129.851"
+       id="path857"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-0)"
+       d="M 29.699998,102.51253 V 14.807833"
+       id="path857-5"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 20.730201,77.937584 101.25906,42.457047"
+       id="path1880" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 44.051677,33.686578 116.40805,80.927516"
+       id="path1882" />
+    <circle
+       style="fill:#0000ff;fill-opacity:0.694805;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:1.23893"
+       id="path1986"
+       cx="48.436913"
+       cy="65.778519"
+       r="1.3953021" />
+    <circle
+       style="fill:#0000ff;fill-opacity:0.694805;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:1.23893"
+       id="path1986-1"
+       cx="95.079865"
+       cy="45.048325"
+       r="1.3953021" />
+    <circle
+       style="fill:#0000ff;fill-opacity:0.694805;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:1.23893"
+       id="path1986-18"
+       cx="52.224163"
+       cy="39.068459"
+       r="1.3953021" />
+    <circle
+       style="fill:#0000ff;fill-opacity:0.694805;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:1.23893"
+       id="path1986-14"
+       cx="112.02282"
+       cy="78.136917"
+       r="1.3953021" />
+    <circle
+       style="fill:#ff0000;fill-opacity:0.694805;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:1.23893"
+       id="path1986-9"
+       cx="75.14698"
+       cy="53.818794"
+       r="1.3953021" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;line-height:125%;font-family:'Cambria Math';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="49.897591"
+       y="70.681122"
+       id="text14913"><tspan
+         sodipodi:role="line"
+         x="49.897591"
+         y="70.681122"
+         id="tspan14911"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;font-family:'Cambria Math';fill:#000000;stroke-width:0.264583"
+           id="tspan14903">𝑝</tspan><tspan
+           dx="-0.22892702"
+           dy="0.80429149"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:2.84427px;font-family:'Cambria Math';fill:#000000;stroke-width:0.264583"
+           id="tspan14905">1</tspan><tspan
+           dx="0.20300367"
+           dy="-0.80429149"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;font-family:Calibri;fill:#000000;stroke-width:0.264583"
+           id="tspan14907"> </tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;font-family:Calibri;fill:#000000;stroke-width:0.264583"
+           id="tspan14909"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;line-height:125%;font-family:'Cambria Math';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="98.083107"
+       y="49.552265"
+       id="text14939"><tspan
+         sodipodi:role="line"
+         x="98.083107"
+         y="49.552265"
+         id="tspan14937"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;font-family:'Cambria Math';fill:#000000;stroke-width:0.264583"
+           id="tspan14929">𝑝</tspan><tspan
+           dx="-0.14426459"
+           dy="0.80429149"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:2.84427px;font-family:'Cambria Math';fill:#000000;stroke-width:0.264583"
+           id="tspan14931">2</tspan><tspan
+           dx="0.24533491"
+           dy="-0.80429149"
+           style="font-style:italic;font-variant:normal;font-weight:400;font-size:3.9026px;font-family:'Cambria Math';fill:#000000;stroke-width:0.264583"
+           id="tspan14933"> </tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;font-family:Calibri;fill:#000000;stroke-width:0.264583"
+           id="tspan14935"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;line-height:125%;font-family:'Cambria Math';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="53.265163"
+       y="35.59568"
+       id="text14963"><tspan
+         sodipodi:role="line"
+         x="53.265163"
+         y="35.59568"
+         id="tspan14961"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;font-family:'Cambria Math';fill:#000000;stroke-width:0.264583"
+           id="tspan14955">𝑝</tspan><tspan
+           dx="-0.14426459"
+           dy="0.80429149"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:2.84427px;font-family:'Cambria Math';fill:#000000;stroke-width:0.264583"
+           id="tspan14957">3</tspan><tspan
+           dx="0.24533491"
+           dy="-0.80429149"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;font-family:Calibri;fill:#000000;stroke-width:0.264583"
+           id="tspan14959"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;line-height:125%;font-family:'Cambria Math';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="113.08498"
+       y="73.870384"
+       id="text14986"><tspan
+         sodipodi:role="line"
+         x="113.08498"
+         y="73.870384"
+         id="tspan14984"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;font-family:'Cambria Math';fill:#000000;stroke-width:0.264583"
+           id="tspan14978">𝑝</tspan><tspan
+           dx="-0.18659581"
+           dy="0.80429149"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:2.84427px;font-family:'Cambria Math';fill:#000000;stroke-width:0.264583"
+           id="tspan14980">4</tspan><tspan
+           dx="0.24533491"
+           dy="-0.80429149"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;font-family:Calibri;fill:#000000;stroke-width:0.264583"
+           id="tspan14982"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;line-height:125%;font-family:'Cambria Math';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="74.697861"
+       y="49.537182"
+       id="text15007"><tspan
+         sodipodi:role="line"
+         x="74.697861"
+         y="49.537182"
+         id="tspan15005"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;font-family:'Cambria Math';fill:#000000;stroke-width:0.264583"
+           id="tspan15001">𝑆</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;font-family:Calibri;fill:#000000;stroke-width:0.264583"
+           id="tspan15003"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;line-height:125%;font-family:'Cambria Math';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="127.63726"
+       y="100.97489"
+       id="text15027"><tspan
+         sodipodi:role="line"
+         x="127.63726"
+         y="100.97489"
+         id="tspan15025"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;font-family:'Cambria Math';fill:#000000;stroke-width:0.264583"
+           id="tspan15021">𝑥</tspan><tspan
+           dx="0.12414938"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;font-family:Calibri;fill:#000000;stroke-width:0.264583"
+           id="tspan15023"> </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;line-height:125%;font-family:'Cambria Math';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="24.415535"
+       y="19.247604"
+       id="text15047"><tspan
+         sodipodi:role="line"
+         x="24.415535"
+         y="19.247604"
+         id="tspan15045"
+         style="stroke-width:0.264583"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;font-family:'Cambria Math';fill:#000000;stroke-width:0.264583"
+           id="tspan15041">𝑦</tspan><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.9026px;font-family:Calibri;fill:#000000;stroke-width:0.264583"
+           id="tspan15043"> </tspan></tspan></text>
+  </g>
+</svg>
